@@ -51,7 +51,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="02Sum.cs" />
     <Compile Include="03Merge.cs" />
-    <Compile Include="Task4.cs" />
+    <Compile Include="04ToRegular.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
