@@ -52,6 +52,10 @@
     <Compile Include="02Sum.cs" />
     <Compile Include="03Merge.cs" />
     <Compile Include="04ToRegular.cs" />
+    <Compile Include="05MaxSubarray.cs" />
+    <Compile Include="06ArrayContains.cs" />
+    <Compile Include="07FindPermutations.cs" />
+    <Compile Include="08FastSum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
