@@ -56,6 +56,9 @@
     <Compile Include="06ArrayContains.cs" />
     <Compile Include="07FindPermutations.cs" />
     <Compile Include="08FastSum.cs" />
+    <Compile Include="09PalindromeAgain.cs" />
+    <Compile Include="10MaxRepeatedSubstring.cs" />
+    <Compile Include="Task11.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
